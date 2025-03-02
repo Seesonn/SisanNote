@@ -1,8 +1,4 @@
-import Navbar from "./components/Navbar"
-import Hero from "./components/Hero"
-import Examples from "./components/Examples"
 
-import AnimeSection from "./components/AnimeSection"
 import SisanNote from "./components/SisanNote"
 
 export default function App() {
