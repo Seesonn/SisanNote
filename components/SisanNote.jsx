@@ -657,7 +657,7 @@ return (
             <h2 className="text-2xl font-bold text-gray-900">
               {currentView.charAt(0).toUpperCase() + currentView.slice(1)}
             </h2>
-
+{/* ok */}
             {filteredNotes.length === 0 ? (
               <div className="bg-white rounded-lg shadow-sm p-8 text-center">
                 <p className="text-gray-500">
